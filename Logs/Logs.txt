@@ -1,0 +1,37 @@
+Producto registrado ExitosamenteError al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__02B25B50". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:33:05
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__02B25B50". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:33:10
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__02B25B50". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:33:15
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__02B25B50". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:33:19
+Error al momento de ejecutar el Proceso:  String or binary data would be truncated in table 'Logistica.dbo.Productos', column 'Placa_vehículo'. Truncated value: 'ASD1234'.
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Envios__Id_Produ__01BE3717". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Id_Producto'.
+The statement has been terminated.
+The statement has been terminated.2/9/2023 18:37:04
+Error al momento de ejecutar el Proceso:  String or binary data would be truncated in table 'Logistica.dbo.Productos', column 'Placa_vehículo'. Truncated value: 'ASD1234'.
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Envios__Id_Produ__01BE3717". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Id_Producto'.
+The statement has been terminated.
+The statement has been terminated.2/9/2023 18:47:08
+Proceso ejecutado Exitosamente: 2/9/2023 18:47:43
+Proceso ejecutado Exitosamente: 2/9/2023 18:48:23
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__027D5126". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:48:52
+Proceso ejecutado Exitosamente: 2/9/2023 18:49:35
+Proceso ejecutado Exitosamente: 2/9/2023 18:51:38
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__027D5126". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:52:28
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__027D5126". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:52:34
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__027D5126". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 18:52:43
+Proceso ejecutado Exitosamente: 2/9/2023 19:09:32
+Error al momento de ejecutar el Proceso:  The DELETE statement conflicted with the REFERENCE constraint "FK__Productos__Codig__027D5126". The conflict occurred in database "Logistica", table "dbo.Productos", column 'Codigo_Cliente'.
+The statement has been terminated.2/9/2023 19:10:08
+Proceso ejecutado Exitosamente: 2/9/2023 19:31:49
+Proceso ejecutado Exitosamente: 2/9/2023 19:34:09
+Proceso ejecutado Exitosamente: 2/9/2023 19:35:05
+Proceso ejecutado Exitosamente: 2/9/2023 19:36:56
+Proceso ejecutado Exitosamente: 2/9/2023 19:37:52
+Proceso ejecutado Exitosamente: 2/9/2023 19:40:41
