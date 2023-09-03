@@ -6,7 +6,7 @@ o ejecutar los script "Scrip Crear Base de Datos" y el procedimiento almacenado 
 3. En caso de que se requiera visualizar los logs de la trazabilidad se debe configurar la ruta de la carpeta de "Logs"
 la cual se encuentra en la clase: ProyectoWebApi\WebApi\Data\Logs.cs modificando la variable: "path" por la ruta de la carpeta de logs.
 5. De igual manera se relaciona la documentación realizada de las funciones del proyecto mediante el archivo llamaado: "Prueba Técnica Desarrollador De Software"  , "Pruebas Unitarias" y "Publicacion WebApi"
-
+6. Enlace para descargar el proyecto WebApi:  https://1drv.ms/u/s!AoUk4Iz8YBBf6D3xGseEJzfT3D6m
 
 
 Muchas Gracias
